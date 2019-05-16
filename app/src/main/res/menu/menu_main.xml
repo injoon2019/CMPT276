@@ -1,0 +1,111 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Sudoku Size"
+        android:id="@+id/different_size_sudoku_grids"
+        android:textStyle="bold|italic">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/fourXfour"
+
+                    android:title="4 X 4" />
+                <item
+                    android:id="@+id/sixXsix"
+
+                    android:title="6 X 6" />
+                <item
+                    android:id="@+id/nineXnine"
+
+                    android:title="9 X 9" />
+
+
+                <item
+                    android:id="@+id/twelveXtwelve"
+
+                    android:title="12 X 12" />
+
+            </group>
+        </menu>
+    </item>
+    <item android:title="Difficulty Tracking"
+        android:id="@+id/points_view1"
+        android:textStyle="bold|italic">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/points_view"
+
+                    android:title="Points of Words " />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Difficulty Levels"
+        android:id="@+id/level"
+        android:textStyle="bold|italic">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/easy_dif"
+
+                    android:title="Easy " />
+                <item
+                    android:id="@+id/medium_dif"
+
+                    android:title="Medium" />
+                <item
+                    android:id="@+id/very_dif"
+
+                    android:title="Very Difficult" />
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/vocabs"
+        android:title="Select Vocabularies"
+        android:textStyle="bold|italic">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/stringxml"
+
+                    android:title="from String.xml " />
+                <item
+                    android:id="@+id/csvFile"
+
+                    android:title="from Internal CSV File" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Regular Mode"
+        android:id="@+id/switch_language"
+        android:textStyle="bold|italic">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/switch_to_english"
+                    android:title="English Regular" />
+                <item
+                    android:id="@+id/switch_to_korean"
+                    android:title="Korean Regular" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Listening Mode"
+        android:id="@+id/listening_comprehension"
+        android:textStyle="bold|italic">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/english_listening_mode"
+                    android:title="English Listening" />
+                <item
+                    android:id="@+id/korean_listening_mode"
+                    android:title="Korean Listening" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

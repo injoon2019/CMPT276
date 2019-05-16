@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Sudoku Vocabulary Puzzle</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Close Drawer</string>
+
+    <string-array name="EWords">
+        <item>Del.</item>
+        <item>Toy</item>
+        <item>Sun</item>
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>King</item>
+        <item>Girl</item>
+        <item>Word</item>
+        <item>Zoo</item>
+        <item>Mom</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+
+    </string-array>
+
+    <string-array name="KWords">
+        <item>Del.</item>
+        <item>장난감</item>
+        <item>태양</item>
+        <item>개</item>
+        <item>고양이</item>
+        <item>왕</item>
+        <item>소녀</item>
+        <item>단어</item>
+        <item>동물원</item>
+        <item>엄마</item>
+        <item>가</item>
+        <item>나</item>
+        <item>다</item>
+
+    </string-array>
+
+    <string-array name="EWords1">
+        <item>Task</item>
+        <item>Son</item>
+        <item>Doll</item>
+        <item>Car</item>
+        <item>Key</item>
+        <item>Goal</item>
+        <item>Will</item>
+        <item>Quit</item>
+        <item>Moon</item>
+    </string-array>
+
+    <string-array name="KWords1">
+        <item>일</item>
+        <item>아들</item>
+        <item>인형</item>
+        <item>자동차</item>
+        <item>열쇠</item>
+        <item>목표</item>
+        <item>의지</item>
+        <item>나가다</item>
+        <item>달</item>
+    </string-array>
+
+
+    <string-array name="EWords2">
+        <item>Tuna</item>
+        <item>See</item>
+        <item>Dad</item>
+        <item>Call</item>
+        <item>Kite</item>
+        <item>Good</item>
+        <item>Wall</item>
+        <item>Ice</item>
+        <item>Lie</item>
+    </string-array>
+
+    <string-array name="KWords2">
+        <item>참치</item>
+        <item>보다</item>
+        <item>아빠</item>
+        <item>부르다</item>
+        <item>연</item>
+        <item>좋은</item>
+        <item>벽</item>
+        <item>얼음</item>
+        <item>거짓말</item>
+    </string-array>
+
+
+</resources>
